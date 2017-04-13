@@ -141,3 +141,7 @@ The second case is ok if you can do your own operations, but there's currently n
 * Facebook, Amazon and Google changed that
 * Make no mistake **this is NOT a good thing!**
 * You **can** and **should** take back control of the web!
+
+## Additional resources
+
+* Roll your own VPN on OVH, DigitalOcean or whatever: https://github.com/Nyr/openvpn-install
