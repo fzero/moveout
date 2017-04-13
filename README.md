@@ -1,5 +1,7 @@
 # It's time to move out! - Getting your data out of the US
 
+These are the speaker notes / outline for the presentation. The deck was created with [Reveal.js](http://lab.hakim.se/reveal-js) and can be found in the [`/deck`](deck) folder.
+
 ## Who am I?
 
 * Fabio Neves
