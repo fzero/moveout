@@ -26,6 +26,7 @@ These are the speaker notes / outline for the presentation. The deck was created
 * Should you trust a single entity with your data? Google stores all your email, contacts, calendar, location history...
 * Using your data - even if slightly anonymized - is their business.
 * How much can they guess about you just by looking at metadata?
+* You should diversify your data storage.
 
 ## Email
 
@@ -70,6 +71,9 @@ These are the speaker notes / outline for the presentation. The deck was created
 
 * That's a tough one!
 * You're pretty much paying for the services with your data and privacy
+  * Speaking of privacy, internet veterans have a much better understanding of it.
+  * People born in the 90s who grew with internet everywhere, not so much.
+  * you should consider absolutely everything you post public - even if marked otherwise.
 * BUT! There have been some interesting recent developments...
 
 ### Mastodon
