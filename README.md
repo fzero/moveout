@@ -37,14 +37,14 @@ These are the speaker notes / outline for the presentation. The deck was created
 
 ### Alternatives
 
-* Protonmail
+* [Protonmail](https://protonmail.ch)
   * End-to-end encrypted email. They don't have a way to read messages stored in their servers!
   * Hosted in Switzerland
   * Good free tier
   * Downside: doesn't offer IMAP or POP3 access.
 * Manual PGP encryption
   * Requires a lot of work
-  * Keybase.io makes it a bit less hard (still not easy)
+  * [Keybase.io](https://keybase.io) makes it a bit less hard (still not easy)
 
 ## Storage
 
@@ -57,15 +57,15 @@ These are the speaker notes / outline for the presentation. The deck was created
 
 ### Alternatives
 
-* Sync.com
+* [Sync.com](https://sync.com)
   * End-to-end encrypted
   * Canadian!
   * Very good pricing
   * Downsides: doesn't have document editing features like Dropbox and Google Docs
   * Doesn't have a native Linux client (there are workarounds though)
-* owncloud.org
+* [Owncloud](https://owncloud.org)
   * Use one of many providers located in several places around the world
-  * You can install it on a RaspberryPi and have the most personal cloud computing platform ever! (https://pimylifeup.com/raspberry-pi-owncloud/)
+  * [You can install it on a RaspberryPi](https://pimylifeup.com/raspberry-pi-owncloud/) and have the most personal cloud computing platform ever!
 
 ## Social media
 
@@ -76,7 +76,7 @@ These are the speaker notes / outline for the presentation. The deck was created
   * you should consider absolutely everything you post public - even if marked otherwise.
 * BUT! There have been some interesting recent developments...
 
-### Mastodon
+### [Mastodon](https://mastodon.cloud)
 
 * Decenralized, open-source, ad-free social network
 * It's gaining traction
@@ -93,9 +93,9 @@ These are the speaker notes / outline for the presentation. The deck was created
 ### Alternatives
 
 * IRC!
-* Riot.im
+* [Riot.im](https://riot.im)
   * Looks more like Slack
-  * Decentralized, modern architecture based on the Matrix protocol
+  * Decentralized, modern architecture based on the [Matrix protocol](https://matrix.org)
   * Yes, you can host your own
 
 ## Code
@@ -106,7 +106,7 @@ These are the speaker notes / outline for the presentation. The deck was created
 
 ### Alternative
 
-* Gitlab
+* [Gitlab](https://about.gitlab.com)
   * Host your own GitHub!
   * Very easy to install and maintain
   * Excellent for closed, company-specific projects
@@ -123,13 +123,15 @@ The second case is ok if you can do your own operations, but there's currently n
 
 ### Alternatives
 
-* 1984hosting.com
+* [1984hosting](https://1984hosting.com)
   * Based in Iceland
   * Famous for their stance on privacy and civil rights
-* OVH
+* [OVH](https://www.ovh.com/ca/en/)
   * French company
   * Offers decently-priced VPS
   * Has datacenters all over the world (including Canada)
+* No Heroku alternative, but you can create your own using [Dokku](http://dokku.viewdocs.io/dokku/) or [Flynn](https://flynn.io).
+  * It's more work, but it'll end up cheaper and safer.
 
 ## Notice a common theme?
 
