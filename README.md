@@ -17,15 +17,15 @@ These are the speaker notes / outline for the presentation. The deck was created
 * The location of those computers matter
 * Who controls those computers matters even more
 * Most of the cloud is hosted in the US
+* The US government gave themselves (unilaterally!) the right to spy on everyone else!
 * Have you read the news lately?
 
 ## What you can do?
 
 * You don't need to abandon the cloud entirely, but you can keep your stuff in a safer place!
-* You need to think about what you consider sensitive (private) and what you don't mind other people having access to.
-  * Yes, this means you should always **think before you post!**
-  * Internet veterans have this ingrained in their minds.
-  * People who were born in the 90s and grew up with widely available internet, not so much.
+* Should you trust a single entity with your data? Google stores all your email, contacts, calendar, location history...
+* Using your data - even if slightly anonymized - is their business.
+* How much can they guess about you just by looking at metadata?
 
 ## Email
 
